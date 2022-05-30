@@ -22,7 +22,7 @@ class ListItemDecorator : RecyclerView.ItemDecoration() {
         parent: RecyclerView,
         state: RecyclerView.State
     ) {
-        outRect.set(200, 20, 200, 20)
+//        outRect.set(200, 20, 200, 20)
     }
 
 }
